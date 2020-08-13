@@ -2,8 +2,7 @@
 
 This page lists the C codes used for numerical experiments in the paper: Josef Dick, Takashi Goda and Hiroya Murata, Toeplitz Monte Carlo, submitted to Statistics and Computing (https://arxiv.org/abs/2003.03915).
 
-To run the programs properly, you need to download a pseudo-random number generator called SFMT from its supporting page http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/ and a version of FFTW from the page http://www.fftw.org/ to perform the fast Fourier transform.
-
+To run the programs properly, please download a pseudo-random number generator called SFMT from its supporting page http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/ and a version of FFTW from the page http://www.fftw.org/ to perform the fast Fourier transform.
 
 (Section 3.1: Generating points from multivariate Gaussian) "normal_random_variable_stdMC.c" and "normal_random_variable_TMC.c"
 
