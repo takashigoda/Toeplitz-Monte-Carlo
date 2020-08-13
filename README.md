@@ -1,4 +1,4 @@
-# Toeplitz-Monte-Carlo-in-C
+# Toeplitz-Monte-Carlo
 
 This page lists the C codes used for numerical experiments in the paper: Josef Dick, Takashi Goda and Hiroya Murata, Toeplitz Monte Carlo, submitted to Statistics and Computing (https://arxiv.org/abs/2003.03915).
 
