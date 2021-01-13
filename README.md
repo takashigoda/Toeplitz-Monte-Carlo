@@ -1,6 +1,6 @@
 # Toeplitz-Monte-Carlo
 
-This page lists the C codes used for numerical experiments in the paper: Josef Dick, Takashi Goda and Hiroya Murata, Toeplitz Monte Carlo, submitted to Statistics and Computing (https://arxiv.org/abs/2003.03915).
+This page lists the C codes used for numerical experiments in the paper: Josef Dick, Takashi Goda and Hiroya Murata, Toeplitz Monte Carlo, Statistics and Computing, 31, Article number 1 (2021). The published version is available from https://doi.org/10.1007/s11222-020-09987-x and the preprint is available from https://arxiv.org/abs/2003.03915.
 
 To run the programs properly, please download a pseudo-random number generator called SFMT from its supporting page http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/ and a version of FFTW from the page http://www.fftw.org/ to perform the fast Fourier transform.
 
